@@ -1,0 +1,26 @@
+# Core dependencies
+PyQt6
+pandas
+numpy
+plotly
+dash
+fastapi
+uvicorn
+redis
+requests
+pytest
+pyinstaller
+
+# Financial data
+yfinance
+alpha-vantage
+
+# Machine learning
+scikit-learn
+nltk
+spacy
+
+# Utilities
+pyyaml
+python-dotenv
+logging
